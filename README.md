@@ -1,7 +1,6 @@
 # tune
-Python terminal based music streamer
-Dependencies
-pythonyoutubesearch (searching)
-mpv(to play audio)
-rich (for colored text)
-will convert this into a TUI next weekend
+## Python terminal based music streamer 
+### Dependencies
+1. pythonyoutubesearch (searching)
+2. mpv(to play audio)
+3. rich (for colored text)
